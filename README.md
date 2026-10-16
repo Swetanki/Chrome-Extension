@@ -19,7 +19,7 @@ A lightweight Chrome extension for saving links and keeping them one click away.
 ## Screenshots
 
 <!-- Add screenshots to a /screenshots folder and link them here -->
-![Popup](screenshots\popup.png)
+![Popup](screenshots/popup.png)
 
 ---
 
